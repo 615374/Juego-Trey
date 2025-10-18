@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1749161948 source:c:\users\gisel\onedrive\escritorio\utn\c++\juegotreyfixed\juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"juego.h"
+
+1749163954 c:\users\gisel\onedrive\escritorio\utn\c++\juegotreyfixed\juego.h
+	<string>
+
+1749162112 source:c:\users\gisel\onedrive\escritorio\utn\c++\juegotreyfixed\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<windows.h>
+	"juego.h"
+
+1749590021 source:c:\users\gisel\onedrive\escritorio\juegotreyfixed\juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"juego.h"
+
+1749163954 c:\users\gisel\onedrive\escritorio\juegotreyfixed\juego.h
+	<string>
+
+1749162112 source:c:\users\gisel\onedrive\escritorio\juegotreyfixed\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<windows.h>
+	"juego.h"
+
+1750630391 source:c:\users\gisel\onedrive\escritorio\utn\juegotreyfixed\juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"juego.h"
+
+1750630938 c:\users\gisel\onedrive\escritorio\utn\juegotreyfixed\juego.h
+	<string>
+
+1749162112 source:c:\users\gisel\onedrive\escritorio\utn\juegotreyfixed\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+	<windows.h>
+	"juego.h"
+
