@@ -1,5 +1,5 @@
-==============================
-        TREY - Juego de Consola
+
+TREY - Juego de Consola
 ==============================
 
 📌 DESCRIPCIÓN GENERAL:
